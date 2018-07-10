@@ -1,7 +1,7 @@
 //  Copyright 2005-2016 Portland State University, University of Wisconsin
 //  Authors:  Robert M. Scheller
 
-using Edu.Wisc.Forest.Flel.Util;
+using Landis.Utilities;
 using Landis.Library.BiomassCohorts;
 using Landis.SpatialModeling;
 using Landis.Library.Biomass;
