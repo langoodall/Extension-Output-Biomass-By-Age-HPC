@@ -1,4 +1,3 @@
-//  Copyright 2005-2016 Portland State University, University of Wisconsin
 //  Authors:  Robert M. Scheller
 
 using Landis.Core;
