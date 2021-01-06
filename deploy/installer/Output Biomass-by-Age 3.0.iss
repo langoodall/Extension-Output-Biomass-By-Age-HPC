@@ -27,7 +27,7 @@ AppPublisher={#AppPublisher}
 AppPublisherURL={#AppURL}
 AppSupportURL={#AppURL}
 AppUpdatesURL={#AppURL}
-DefaultDirName={pf}\{#ExtensionName}
+DefaultDirName={commonpf}\{#ExtensionName}
 DisableDirPage=yes
 DefaultGroupName={#ExtensionName}
 DisableProgramGroupPage=yes
@@ -56,10 +56,10 @@ Source: {#BuildDir}\Landis.Library.Cohorts-v2.dll; DestDir: {#ExtDir}; Flags: un
 
 
 ; Complete example for testing the extension
-Source: ..\examples\*.txt; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
-Source: ..\examples\*.gis; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
-Source: ..\examples\*.bat; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
-Source: ..\examples\*.csv; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
+; Source: ..\examples\*.txt; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
+; Source: ..\examples\*.gis; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
+; Source: ..\examples\*.bat; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
+; Source: ..\examples\*.csv; DestDir: {#AppDir}\examples\{#ExtensionName}; Flags: replacesameversion
 
 
 ; LANDIS-II identifies the extension with the info in this .txt file
