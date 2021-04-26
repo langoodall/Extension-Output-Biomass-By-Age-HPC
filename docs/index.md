@@ -4,7 +4,7 @@ This extension summarizes output from any biomass-compatible extensions, includi
 
 # Release Notes
 
-- Latest release: Version 3.0 — September 2018
+- Latest release: Version 3.0, September 2018
 
 - Full release details found in the User Guide and on GitHub.
 - [View User Guide](https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass-By-Age/blob/master/docs/LANDIS-II%20Age%20Biomass%20Output%20v3.0%20User%20Guide.pdf).
